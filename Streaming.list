@@ -11,15 +11,19 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 
 # Community
 # > Redit
-DOAMIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,reddit.com
 # >Mastodon
-DOAMIN-SUFFIX,m.cmx.im
-DOAMIN-SUFFIX,go5.dev
-DOAMIN-SUFFIX,geeknews.chat
-DOAMIN-SUFFIX,botsin.space
-DOAMIN-SUFFIX,moresci.sale
-DOAMIN-SUFFIX,alive.bar
-DOAMIN-SUFFIX,mastodon.hongkongers.net
+DOMAIN-SUFFIX,m.cmx.im
+DOMAIN-SUFFIX,go5.dev
+DOMAIN-SUFFIX,geeknews.chat
+DOMAIN-SUFFIX,botsin.space
+DOMAIN-SUFFIX,moresci.sale
+DOMAIN-SUFFIX,alive.bar
+DOMAIN-SUFFIX,mastodon.hongkongers.net
+DOMAIN-SUFFIX,bird.makeup
+DOMAIN-SUFFIX,wxw.moe
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,schleuss.online
 
 # (Music)
 # > Deezer
