@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 # Community
 # > Redit
 DOMAIN-SUFFIX,reddit.com
-# >Mastodon
+# > Mastodon
 DOMAIN-SUFFIX,m.cmx.im
 DOMAIN-SUFFIX,go5.dev
 DOMAIN-SUFFIX,geeknews.chat
@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,bird.makeup
 DOMAIN-SUFFIX,wxw.moe
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,schleuss.online
+DOMAIN-SUFFIX,nofan.xyz
+DOMAIN-SUFFIX,mog.blue
 
 # (Music)
 # > Deezer
