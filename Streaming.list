@@ -9,6 +9,12 @@ DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
 
+# Community
+# > Redit
+DOAMIN-SUFFIX,reddit.com
+# >Mastodon
+DOAMIN-SUFFIX,m.cmx.im
+
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
