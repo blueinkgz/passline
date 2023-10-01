@@ -28,6 +28,12 @@ DOMAIN-SUFFIX,nofan.xyz
 DOMAIN-SUFFIX,mog.blue
 DOMAIN-SUFFIX,piaille.fr
 
+# Code
+# > GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
