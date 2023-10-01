@@ -14,6 +14,10 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOAMIN-SUFFIX,reddit.com
 # >Mastodon
 DOAMIN-SUFFIX,m.cmx.im
+DOAMIN-SUFFIX,go5.dev
+DOAMIN-SUFFIX,geeknews.chat
+DOAMIN-SUFFIX,botsin.space
+DOAMIN-SUFFIX,moresci.sale
 
 # (Music)
 # > Deezer
