@@ -158,6 +158,23 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
 
+# Twitter
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-KEYWORD,twitter
+
+# Line
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,naver.jp
+
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
@@ -467,3 +484,20 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+
+# Google
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,blogspot
+IP-CIDR,35.190.247.0/24
+IP-CIDR,64.233.160.0/19
+IP-CIDR,66.102.0.0/20
+IP-CIDR,66.249.80.0/20
+IP-CIDR,72.14.192.0/18
+IP-CIDR,74.125.0.0/16
+IP-CIDR,108.177.8.0/21
+IP-CIDR,172.217.0.0/16
+IP-CIDR,173.194.0.0/16
+IP-CIDR,209.85.128.0/17
+IP-CIDR,216.58.192.0/19
+IP-CIDR,216.239.32.0/19
