@@ -141,6 +141,18 @@ DOMAIN-SUFFIX,vocalodon.net
 DOMAIN-SUFFIX,cupoftea.social
 DOMAIN-SUFFIX,9kb.me
 DOMAIN-SUFFIX,social.anoxinon.de
+<<<<<<< HEAD
+=======
+
+# > Telegram
+DOMAIN-SUFFIX,telegram.com
+DOMAIN-SUFFIX,telegram.me
+IP-CIDR,91.108.4.0/22
+IP-CIDR,91.108.8.0/22
+IP-CIDR,91.108.56.0/22
+IP-CIDR,109.239.140.0/24
+IP-CIDR,149.154.160.0/20
+>>>>>>> 7a240541c084baabdd3e60807cdf3acd2b3263b5
 
 # Code
 # > GitHub
