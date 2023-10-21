@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 # Community
 # > Redit
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,imgur.io
+
 # > Mastodon
 DOMAIN-SUFFIX,m.cmx.im
 DOMAIN-SUFFIX,media.cmx.edu.kg
