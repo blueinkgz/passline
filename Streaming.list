@@ -1,505 +1,506 @@
-# Streaming Media
-
-# (Live)
-# > Twitch
-host-suffix,jtvnw.net
-host-suffix,ttvnw.net
-host-suffix,twitch.tv
-host-suffix,twitchcdn.net
-
-# Community
-# > Redit
-host-suffix,reddit.com
-host-suffix,imgur.io
-
-# > Mastodon
-host-suffix,m.cmx.im
-host-suffix,media.cmx.edu.kg
-host-suffix,go5.dev
-host-suffix,geeknews.chat
-host-suffix,botsin.space
-host-suffix,moresci.sale
-host-suffix,alive.bar
-host-suffix,mastodon.hongkongers.net
-host-suffix,bird.makeup
-host-suffix,wxw.moe
-host-suffix,mastodon.social
-host-suffix,schleuss.online
-host-suffix,nofan.xyz
-host-suffix,mog.blue
-host-suffix,piaille.fr
-host-suffix,douchi.space
-host-suffix,c7.io
-host-suffix,allships.run
-host-suffix,bgme.me
-host-suffix,stolen.day
-host-suffix,mastodon.li
-host-suffix,o3o.ca
-host-suffix,eihei.net
-host-suffix,donotban.com
-host-suffix,hello.2heng.xin
-host-suffix,mastodon.online
-host-suffix,liker.social
-host-suffix,floss.social
-host-suffix,infosec.exchange
-host-suffix,mstdn.social
-host-suffix,me.ns.ci
-host-suffix,fivest.one
-host-suffix,amst.io
-host-suffix,kongwoo.icu
-host-suffix,mas.to
-host-suffix,digforfire.org
-host-suffix,qoto.org
-host-suffix,fanfou.social
-host-suffix,mastodon.world
-host-suffix,ovo.st
-host-suffix,retirenow.tokap
-host-suffix,acg.mn
-host-suffix,toot,mantyke.icu
-host-suffix,pullopen.xyz
-host-suffix,dvd.chat
-host-suffix,swiss-chaos.social
-host-suffix,eldritch.cafe
-host-suffix,dabr.ca
-host-suffix,indieweb.social
-host-suffix,troet.cafe
-host-suffix,sinophone.world
-host-suffix,retirenow.top
-host-suffix,kolektiva.social
-host-suffix,nya.one
-host-suffix,mas.to
-host-suffix,universeodon.com
-host-suffix,seaofog.com
-host-suffix,toot.io
-host-suffix,ieji.de
-host-suffix,mstdn.jp
-host-suffix,g0v.social
-host-suffix,nrw.social
-host-suffix,bahn.social
-host-suffix,c.im
-host-suffix,climatejustice.rocks
-host-suffix,m.otter.homes
-host-suffix,androiddev.social
-host-suffix,dragon-fly.club
-host-suffix,aus.social
-host-suffix,ravenation.club
-host-suffix,hyan.ink
-host-suffix,fosstodon.org
-host-suffix,meow.day
-host-suffix,8w.ee
-host-suffix,1234.as
-host-suffix,go5.dev
-host-suffix,techeasy.org
-host-suffix,mastodon.top
-host-suffix,mastodon.nl
-host-suffix,convo.casa
-host-suffix,social.datalabour.com
-host-suffix,techhub.social
-host-suffix,fairy.id
-host-suffix,utopia.cool
-host-suffix,vivaldi.net
-host-suffix,social.bbdao.dev
-host-suffix,toot.community
-host-suffix,mastodon.bida.im
-host-suffix,pokemon.mastportal.info
-host-suffix,fed.sakuyo.net
-host-suffix,graphics.social
-host-suffix,defcon.social
-host-suffix,sfba.social
-host-suffix,tea.codes
-host-suffix,unstable.icu
-host-suffix,kaleido.moe
-host-suffix,together.chaoyu.us
-host-suffix,m.jinwei.me
-host-suffix,social.butnot.today
-host-suffix,nacchan.ca
-host-suffix,mastodon.sdf.org
-host-suffix,bitsandpixels.dev
-host-suffix,forum-lucifer.com
-host-suffix,fedibird.com
-host-suffix,nemushee.net
-host-suffix,mstnf.com
-host-suffix,discuss.systems
-host-suffix,sakuyo.net
-host-suffix,beekeeping.ninja
-host-suffix,hachyderm.io
-host-suffix,expressional.social
-host-suffix,sself.co
-host-suffix,elizur.me
-host-suffix,m.wulingate.com
-host-suffix,mastodonapp.uk
-host-suffix,sddn.space
-host-suffix,malu.today
-host-suffix,blooming-land.icu
-host-suffix,masto.nu
-host-suffix,stoners.social
-host-suffix,masto.yttrx.com
-host-suffix,darkwitch.net
-host-suffix,slashine.onl
-host-suffix,ramen-fsm.eu.org
-host-suffix,tooting.ch
-host-suffix,vocalodon.net
-host-suffix,cupoftea.social
-host-suffix,9kb.me
-host-suffix,social.anoxinon.de
-
-# > Telegram
-host-suffix,telegram.com
-host-suffix,telegram.me
-host-suffix,telegram.org
-ip-cidr,91.108.4.0/22
-ip-cidr,91.108.8.0/22
-ip-cidr,91.108.56.0/22
-ip-cidr,109.239.140.0/24
-ip-cidr,149.154.160.0/20
-
-# Code
-# > GitHub
-host-suffix,github.com
-host-suffix,githubusercontent.com
-host-suffix,githubassets.com
-
-# Twitter
-host-suffix,pscp.tv
-host-suffix,t.co
-host-suffix,twimg.co
-host-suffix,twimg.com
-host-suffix,twitpic.com
-host-suffix,vine.co
-host-suffix,x.com
-host-keyword,twitter
-
-# Line
-host-suffix,line-apps.com
-host-suffix,line-cdn.net
-host-suffix,line-scdn.net
-host-suffix,line.me
-host-suffix,line.naver.jp
-host-suffix,naver.jp
-
-# (Music)
-# > Deezer
-user-agent,Deezer*
-host-suffix,deezer.com
-host-suffix,dzcdn.net
-# > JOOX
-user-agent,JOOX*
-user-agent,WeMusic*
-host-suffix,joox.com
-host-keyword,jooxweb-api
-# > KKBOX
-host-suffix,kkbox.com
-host-suffix,kkbox.com.tw
-host-suffix,kfs.io
-# > Pandora
-user-agent,Pandora*
-host-suffix,pandora.com
-# > SoundCloud
-user-agent,SoundCloud*
-host-suffix,p-cdn.us
-host-suffix,sndcdn.com
-host-suffix,soundcloud.com
-# > Spotify
-user-agent,Spotify*
-host-suffix,pscdn.co
-host-suffix,scdn.co
-host-suffix,spotify.com
-host-suffix,spoti.fi
-host-keyword,spotify.com
-host-keyword,-spotify-com
-# > TIDAL
-user-agent,TIDAL*
-host-suffix,tidal.com
-# > YouTubeMusic
-user-agent,com.google.ios.youtubemusic*
-user-agent,YouTubeMusic*
-
-# (Podcast)
-# > Himalaya
-user-agent,Himalaya*
-host-suffix,himalaya.com
-# > Overcast
-user-agent,Overcast*
-host-suffix,overcast.fm
-
-# (Video)
-# > AbemaTV
-user-agent,AbemaTV*
-host-suffix,abema.io
-host-suffix,abema.tv
-host-suffix,abema-tv.com
-host-suffix,ameba.jp
-host-suffix,hayabusa.io
-host-suffix,hayabusa.media
-host,api-abematv.bucketeer.jp
-host-keyword,abematv.akamaized.net
-# > All 4
-user-agent,All4*
-host-suffix,c4assets.com
-host-suffix,channel4.com
-# > Amazon Prime Video
-user-agent,InstantVideo.US*
-user-agent,Prime%20Video*
-host-suffix,aiv-cdn.net
-host-suffix,aiv-delivery.net
-host-suffix,amazonvideo.com
-host-suffix,media-amazon.com
-host-suffix,primevideo.com
-host-suffix,pv-cdn.net
-host,atv-ps.amazon.com
-host,fls-na.amazon.com
-host,avodmp4s3ww-a.akamaihd.net
-host,d25xi40x97liuc.cloudfront.net
-host,dmqdd6hw24ucf.cloudfront.net
-host,dmqdd6hw24ucf.cloudfront.net
-host,d22qjgkvxw22r6.cloudfront.net
-host,d1v5ir2lpwr8os.cloudfront.net
-host,d27xxe7juh1us6.cloudfront.net
-# host,www.amazon.com
-host-keyword,avoddashs
-# > Apple Music TV
-host,tv.applemusic.com
-# > Apple TV
-host,linear.tv.apple.com
-host,play-edge.itunes.apple.com
-host,uts-api.itunes.apple.com
-# > Bahamut
-user-agent,Anime*
-host-suffix,bahamut.com.tw
-host-suffix,gamer.com.tw
-host,bahamut.akamaized.net
-host,gamer-cds.cdn.hinet.net
-host,gamer2-cds.cdn.hinet.net
-# > BBC iPlayer
-user-agent,BBCiPlayer*
-host-suffix,bbc.co.uk
-host-suffix,bbci.co.uk
-host-keyword,bbcfmt
-host-keyword,uk-live
-# > bilibili Intl
-host-suffix,biliintl.com
-host,apm-misaka.biliapi.net
-host,p.bstarstatic.com
-host,p-bstarstatic.akamaized.net
-host,upos-bstar-mirrorakam.akamaized.net
-host,upos-bstar1-mirrorakam.akamaized.net
-# > DAZN
-user-agent,DAZN*
-host-suffix,dazn.com
-host-suffix,dazn-api.com
-host-suffix,dazndn.com
-host-suffix,indazn.com
-host,d151l6v8er5bdm.cloudfront.net
-host-keyword,voddazn
-# > discovery+
-user-agent,DPlus*
-user-agent,discovery+*
-host-suffix,disco-api.com
-host-suffix,discoveryplus.co.uk
-host-suffix,discoveryplus.com
-host-suffix,discoveryplus.in
-host-suffix,dnitv.com
-# host,go-prod-vz.akamaized.net
-host,x-default-stgec.uplynk.com
-host-keyword,discovery.uplynk.com
-# > Disney+
-user-agent,Disney+*
-host-suffix,bamgrid.com
-host-suffix,disneyplus.com
-host-suffix,disney-plus.net
-host-suffix,disneystreaming.com
-host-suffix,dssott.com
-host,cdn.registerdisney.go.com
-# > DMM
-host-suffix,dmm.co.jp
-host-suffix,dmm.com
-host-suffix,dmm-extension.com
-# > encoreTVB
-user-agent,encoreTVB*
-host-suffix,encoretvb.com
-host,edge.api.brightcove.com
-host,bcbolt446c5271-a.akamaihd.net
-# > Hami Video
-host-suffix,ott.hinet.net
-host-suffix,hamivideo.hinet.net
-host,hls-hichannel.cdn.hinet.net
-host-keyword,hamivideo.cdn.hinet.net
-# > HBO NOW & Max
-user-agent,HBO%20NOW*
-host-suffix,hbo.com
-host-suffix,hbogo.com
-host-suffix,hbonow.com
-user-agent,HBOMAX*
-host-suffix,hbomax.com
-host-suffix,hbomaxcdn.com
-# > HBO Asia
-user-agent,HBO%20GO%20PROD*
-host-suffix,hbogoasia.com
-host-suffix,hbogoasia.hk
-host-keyword,.hbogoasia.
-host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-host,bcbolthboa-a.akamaihd.net
-host,cf-images.ap-southeast-1.prod.boltdns.net
-host,dai3fd1oh325y.cloudfront.net
-host,hboasia1-i.akamaihd.net
-host,hboasia2-i.akamaihd.net
-host,hboasia3-i.akamaihd.net
-host,hboasia4-i.akamaihd.net
-host,hboasia5-i.akamaihd.net
-host,hboasialive.akamaized.net
-host,hbogoprod-vod.akamaized.net
-host,hbolb.onwardsmg.com
-host,hbounify-prod.evergent.com
-host,players.brightcove.net
-host,s3-ap-southeast-1.amazonaws.com
-# > 华文电视
-user-agent,HWTVMobile*
-host-suffix,5itv.tv
-host-suffix,ocnttv.com
-# > Hulu
-host-suffix,hulu.com
-host-suffix,huluim.com
-host-suffix,hulustream.com
-# > Hulu / フールー
-host-suffix,happyon.jp
-host-suffix,hjholdings.jp
-host-suffix,hulu.jp
-# > ITV
-user-agent,ITV_Player*
-host-suffix,itv.com
-host-suffix,itvstatic.com
-host,itvpnpmobile-a.akamaihd.net
-# > KKTV
-user-agent,KKTV*
-user-agent,com.kktv.ios.kktv*
-host-suffix,kktv.com.tw
-host-suffix,kktv.me
-host,kktv-theater.kk.stream
-host,theater-kktv.cdn.hinet.net
-# > LINE TV
-user-agent,LINE%20TV*
-host-suffix,linetv.tw
-host,d3c7rimkq79yfu.cloudfront.net
-# > LiTV
-host-suffix,litv.tv
-host,litvfreemobile-hichannel.cdn.hinet.net
-# > My5
-user-agent,My5*
-host-suffix,channel5.com
-host-suffix,my5.tv
-host,d349g9zuie06uo.cloudfront.net
-# > myTV SUPER
-user-agent,mytv*
-host-suffix,mytvsuper.com
-host-suffix,tvb.com
-# > Naver TV
-user-agent,Naver%20TV*
-host-suffix,naver.com
-host-suffix,smartmediarep.com
-# > Netflix
-user-agent,Argo*
-host-suffix,netflix.com
-host-suffix,netflix.net
-host-suffix,nflxext.com
-host-suffix,nflximg.com
-host-suffix,nflximg.net
-host-suffix,nflxso.net
-host-suffix,nflxvideo.net
-host-keyword,netflixdnstest
-host-keyword,apiproxy-device-prod-nlb-
-host-keyword,dualstack.apiproxy-
-# GEOIP,NETFLIX,no-resolve
-# > niconico
-user-agent,Niconico*
-host-suffix,dmc.nico
-host-suffix,nicovideo.jp
-host-suffix,nimg.jp
-# > Now E
-host-suffix,nowe.com
-host-suffix,nowestatic.com
-# > Paramount+
-user-agent,PPlus*
-host-suffix,cbsi.com
-host-suffix,cbsaavideo.com
-host-suffix,cbsivideo.com
-host-suffix,paramountplus.com
-host-suffix,pplusstatic.com
-host,cbsi.live.ott.irdeto.com
-host,cbsplaylistserver.aws.syncbak.com
-host,cbsservice.aws.syncbak.com
-host,link.theplatform.com
-# > PBS
-user-agent,PBS*
-host-suffix,pbs.org
-# > Peacock
-user-agent,PeacockMobile*
-host-suffix,peacocktv.com
-# > Pornhub
-host-suffix,phncdn.com
-host-suffix,phprcdn.com
-host-suffix,pornhub.com
-host-suffix,pornhubpremium.com
-# > 台湾好
-user-agent,TaiwanGood*
-host-suffix,skyking.com.tw
-host,hamifans.emome.net
-# > TikTok
-user-agent,TikTok*
-host-suffix,byteoversea.com
-host-suffix,ibytedtos.com
-host-suffix,muscdn.com
-host-suffix,musical.ly
-host-suffix,tiktok.com
-host-suffix,tik-tokapi.com
-host-suffix,tiktokcdn.com
-host-suffix,tiktokv.com
-host-keyword,tiktokcdn-
-# > TVer
-user-agent,TVer-Release*
-host-suffix,tver.jp
-host,edge.api.brightcove.com
-# > ViuTV
-user-agent,Viu*
-host-suffix,viu.com
-host-suffix,viu.tv
-host,api.viu.now.com
-host,d1k2us671qcoau.cloudfront.net
-host,d2anahhhmp1ffz.cloudfront.net
-host,dfp6rglgjqszk.cloudfront.net
-# > WeTV
-user-agent,WeTV*
-host-suffix,wetv.vip
-host-suffix,wetvinfo.com
-ip-cidr,150.109.28.51/32,no-resolve
-# > YouTube
-user-agent,com.google.ios.youtube*
-user-agent,YouTube*
-host-suffix,googlevideo.com
-host-suffix,withyoutube.com
-host-suffix,youtu.be
-host-suffix,youtube.com
-host-suffix,youtubeeducation.com
-host-suffix,youtubegaming.com
-host-suffix,youtubekids.com
-host-suffix,youtube-nocookie.com
-host-suffix,yt.be
-host-suffix,ytimg.com
-host,youtubei.googleapis.com
-host,yt3.ggpht.com
-
-# Google
-host-suffix,blogger.com
-host-keyword,google
-host-keyword,blogspot
-ip-cidr,35.190.247.0/24
-ip-cidr,64.233.160.0/19
-ip-cidr,66.102.0.0/20
-ip-cidr,66.249.80.0/20
-ip-cidr,72.14.192.0/18
-ip-cidr,74.125.0.0/16
-ip-cidr,108.177.8.0/21
-ip-cidr,172.217.0.0/16
-ip-cidr,173.194.0.0/16
-ip-cidr,209.85.128.0/17
-ip-cidr,216.58.192.0/19
-ip-cidr,216.239.32.0/19
+# Streaming Media,PROXY
+,PROXY
+# (Live),PROXY
+# > Twitch,PROXY
+HOST-SUFFIX,jtvnw.net,PROXY
+HOST-SUFFIX,ttvnw.net,PROXY
+HOST-SUFFIX,twitch.tv,PROXY
+HOST-SUFFIX,twitchcdn.net,PROXY
+,PROXY
+# Community,PROXY
+# > Redit,PROXY
+HOST-SUFFIX,reddit.com,PROXY
+HOST-SUFFIX,imgur.io,PROXY
+,PROXY
+# > Mastodon,PROXY
+HOST-SUFFIX,m.cmx.im,PROXY
+HOST-SUFFIX,media.cmx.edu.kg,PROXY
+HOST-SUFFIX,go5.dev,PROXY
+HOST-SUFFIX,geeknews.chat,PROXY
+HOST-SUFFIX,botsin.space,PROXY
+HOST-SUFFIX,moresci.sale,PROXY
+HOST-SUFFIX,alive.bar,PROXY
+HOST-SUFFIX,mastodon.hongkongers.net,PROXY
+HOST-SUFFIX,bird.makeup,PROXY
+HOST-SUFFIX,wxw.moe,PROXY
+HOST-SUFFIX,mastodon.social,PROXY
+HOST-SUFFIX,schleuss.online,PROXY
+HOST-SUFFIX,nofan.xyz,PROXY
+HOST-SUFFIX,mog.blue,PROXY
+HOST-SUFFIX,piaille.fr,PROXY
+HOST-SUFFIX,douchi.space,PROXY
+HOST-SUFFIX,c7.io,PROXY
+HOST-SUFFIX,allships.run,PROXY
+HOST-SUFFIX,bgme.me,PROXY
+HOST-SUFFIX,stolen.day,PROXY
+HOST-SUFFIX,mastodon.li,PROXY
+HOST-SUFFIX,o3o.ca,PROXY
+HOST-SUFFIX,eihei.net,PROXY
+HOST-SUFFIX,donotban.com,PROXY
+HOST-SUFFIX,hello.2heng.xin,PROXY
+HOST-SUFFIX,mastodon.online,PROXY
+HOST-SUFFIX,liker.social,PROXY
+HOST-SUFFIX,floss.social,PROXY
+HOST-SUFFIX,infosec.exchange,PROXY
+HOST-SUFFIX,mstdn.social,PROXY
+HOST-SUFFIX,me.ns.ci,PROXY
+HOST-SUFFIX,fivest.one,PROXY
+HOST-SUFFIX,amst.io,PROXY
+HOST-SUFFIX,kongwoo.icu,PROXY
+HOST-SUFFIX,mas.to,PROXY
+HOST-SUFFIX,digforfire.org,PROXY
+HOST-SUFFIX,qoto.org,PROXY
+HOST-SUFFIX,fanfou.social,PROXY
+HOST-SUFFIX,mastodon.world,PROXY
+HOST-SUFFIX,ovo.st,PROXY
+HOST-SUFFIX,retirenow.tokap,PROXY
+HOST-SUFFIX,acg.mn,PROXY
+HOST-SUFFIX,toot,mantyke.icu,PROXY
+HOST-SUFFIX,pullopen.xyz,PROXY
+HOST-SUFFIX,dvd.chat,PROXY
+HOST-SUFFIX,swiss-chaos.social,PROXY
+HOST-SUFFIX,eldritch.cafe,PROXY
+HOST-SUFFIX,dabr.ca,PROXY
+HOST-SUFFIX,indieweb.social,PROXY
+HOST-SUFFIX,troet.cafe,PROXY
+HOST-SUFFIX,sinophone.world,PROXY
+HOST-SUFFIX,retirenow.top,PROXY
+HOST-SUFFIX,kolektiva.social,PROXY
+HOST-SUFFIX,nya.one,PROXY
+HOST-SUFFIX,mas.to,PROXY
+HOST-SUFFIX,universeodon.com,PROXY
+HOST-SUFFIX,seaofog.com,PROXY
+HOST-SUFFIX,toot.io,PROXY
+HOST-SUFFIX,ieji.de,PROXY
+HOST-SUFFIX,mstdn.jp,PROXY
+HOST-SUFFIX,g0v.social,PROXY
+HOST-SUFFIX,nrw.social,PROXY
+HOST-SUFFIX,bahn.social,PROXY
+HOST-SUFFIX,c.im,PROXY
+HOST-SUFFIX,climatejustice.rocks,PROXY
+HOST-SUFFIX,m.otter.homes,PROXY
+HOST-SUFFIX,androiddev.social,PROXY
+HOST-SUFFIX,dragon-fly.club,PROXY
+HOST-SUFFIX,aus.social,PROXY
+HOST-SUFFIX,ravenation.club,PROXY
+HOST-SUFFIX,hyan.ink,PROXY
+HOST-SUFFIX,fosstodon.org,PROXY
+HOST-SUFFIX,meow.day,PROXY
+HOST-SUFFIX,8w.ee,PROXY
+HOST-SUFFIX,1234.as,PROXY
+HOST-SUFFIX,go5.dev,PROXY
+HOST-SUFFIX,techeasy.org,PROXY
+HOST-SUFFIX,mastodon.top,PROXY
+HOST-SUFFIX,mastodon.nl,PROXY
+HOST-SUFFIX,convo.casa,PROXY
+HOST-SUFFIX,social.datalabour.com,PROXY
+HOST-SUFFIX,techhub.social,PROXY
+HOST-SUFFIX,fairy.id,PROXY
+HOST-SUFFIX,utopia.cool,PROXY
+HOST-SUFFIX,vivaldi.net,PROXY
+HOST-SUFFIX,social.bbdao.dev,PROXY
+HOST-SUFFIX,toot.community,PROXY
+HOST-SUFFIX,mastodon.bida.im,PROXY
+HOST-SUFFIX,pokemon.mastportal.info,PROXY
+HOST-SUFFIX,fed.sakuyo.net,PROXY
+HOST-SUFFIX,graphics.social,PROXY
+HOST-SUFFIX,defcon.social,PROXY
+HOST-SUFFIX,sfba.social,PROXY
+HOST-SUFFIX,tea.codes,PROXY
+HOST-SUFFIX,unstable.icu,PROXY
+HOST-SUFFIX,kaleido.moe,PROXY
+HOST-SUFFIX,together.chaoyu.us,PROXY
+HOST-SUFFIX,m.jinwei.me,PROXY
+HOST-SUFFIX,social.butnot.today,PROXY
+HOST-SUFFIX,nacchan.ca,PROXY
+HOST-SUFFIX,mastodon.sdf.org,PROXY
+HOST-SUFFIX,bitsandpixels.dev,PROXY
+HOST-SUFFIX,forum-lucifer.com,PROXY
+HOST-SUFFIX,fedibird.com,PROXY
+HOST-SUFFIX,nemushee.net,PROXY
+HOST-SUFFIX,mstnf.com,PROXY
+HOST-SUFFIX,discuss.systems,PROXY
+HOST-SUFFIX,sakuyo.net,PROXY
+HOST-SUFFIX,beekeeping.ninja,PROXY
+HOST-SUFFIX,hachyderm.io,PROXY
+HOST-SUFFIX,expressional.social,PROXY
+HOST-SUFFIX,sself.co,PROXY
+HOST-SUFFIX,elizur.me,PROXY
+HOST-SUFFIX,m.wulingate.com,PROXY
+HOST-SUFFIX,mastodonapp.uk,PROXY
+HOST-SUFFIX,sddn.space,PROXY
+HOST-SUFFIX,malu.today,PROXY
+HOST-SUFFIX,blooming-land.icu,PROXY
+HOST-SUFFIX,masto.nu,PROXY
+HOST-SUFFIX,stoners.social,PROXY
+HOST-SUFFIX,masto.yttrx.com,PROXY
+HOST-SUFFIX,darkwitch.net,PROXY
+HOST-SUFFIX,slashine.onl,PROXY
+HOST-SUFFIX,ramen-fsm.eu.org,PROXY
+HOST-SUFFIX,tooting.ch,PROXY
+HOST-SUFFIX,vocalodon.net,PROXY
+HOST-SUFFIX,cupoftea.social,PROXY
+HOST-SUFFIX,9kb.me,PROXY
+HOST-SUFFIX,social.anoxinon.de,PROXY
+,PROXY
+# > Telegram,PROXY
+HOST-SUFFIX,telegram.com,PROXY
+HOST-SUFFIX,telegram.me,PROXY
+HOST-SUFFIX,telegram.org,PROXY
+IP-CIDR,91.108.4.0/22,PROXY
+IP-CIDR,91.108.8.0/22,PROXY
+IP-CIDR,91.108.56.0/22,PROXY
+IP-CIDR,109.239.140.0/24,PROXY
+IP-CIDR,149.154.160.0/20,PROXY
+,PROXY
+# Code,PROXY
+# > GitHub,PROXY
+HOST-SUFFIX,github.com,PROXY
+HOST-SUFFIX,githubusercontent.com,PROXY
+HOST-SUFFIX,githubassets.com,PROXY
+,PROXY
+# Twitter,PROXY
+HOST-SUFFIX,pscp.tv,PROXY
+HOST-SUFFIX,t.co,PROXY
+HOST-SUFFIX,twimg.co,PROXY
+HOST-SUFFIX,twimg.com,PROXY
+HOST-SUFFIX,twitpic.com,PROXY
+HOST-SUFFIX,vine.co,PROXY
+HOST-SUFFIX,x.com,PROXY
+HOST-KEYWORD,twitter,PROXY
+,PROXY
+# Line,PROXY
+HOST-SUFFIX,line-apps.com,PROXY
+HOST-SUFFIX,line-cdn.net,PROXY
+HOST-SUFFIX,line-scdn.net,PROXY
+HOST-SUFFIX,line.me,PROXY
+HOST-SUFFIX,line.naver.jp,PROXY
+HOST-SUFFIX,naver.jp,PROXY
+,PROXY
+# (Music),PROXY
+# > Deezer,PROXY
+USER-AGENT,Deezer*,PROXY
+HOST-SUFFIX,deezer.com,PROXY
+HOST-SUFFIX,dzcdn.net,PROXY
+# > JOOX,PROXY
+USER-AGENT,JOOX*,PROXY
+USER-AGENT,WeMusic*,PROXY
+HOST-SUFFIX,joox.com,PROXY
+HOST-KEYWORD,jooxweb-api,PROXY
+# > KKBOX,PROXY
+HOST-SUFFIX,kkbox.com,PROXY
+HOST-SUFFIX,kkbox.com.tw,PROXY
+HOST-SUFFIX,kfs.io,PROXY
+# > Pandora,PROXY
+USER-AGENT,Pandora*,PROXY
+HOST-SUFFIX,pandora.com,PROXY
+# > SoundCloud,PROXY
+USER-AGENT,SoundCloud*,PROXY
+HOST-SUFFIX,p-cdn.us,PROXY
+HOST-SUFFIX,sndcdn.com,PROXY
+HOST-SUFFIX,soundcloud.com,PROXY
+# > Spotify,PROXY
+USER-AGENT,Spotify*,PROXY
+HOST-SUFFIX,pscdn.co,PROXY
+HOST-SUFFIX,scdn.co,PROXY
+HOST-SUFFIX,spotify.com,PROXY
+HOST-SUFFIX,spoti.fi,PROXY
+HOST-KEYWORD,spotify.com,PROXY
+HOST-KEYWORD,-spotify-com,PROXY
+# > TIDAL,PROXY
+USER-AGENT,TIDAL*,PROXY
+HOST-SUFFIX,tidal.com,PROXY
+# > YouTubeMusic,PROXY
+USER-AGENT,com.google.ios.youtubemusic*,PROXY
+USER-AGENT,YouTubeMusic*,PROXY
+,PROXY
+# (Podcast),PROXY
+# > Himalaya,PROXY
+USER-AGENT,Himalaya*,PROXY
+HOST-SUFFIX,himalaya.com,PROXY
+# > Overcast,PROXY
+USER-AGENT,Overcast*,PROXY
+HOST-SUFFIX,overcast.fm,PROXY
+,PROXY
+# (Video),PROXY
+# > AbemaTV,PROXY
+USER-AGENT,AbemaTV*,PROXY
+HOST-SUFFIX,abema.io,PROXY
+HOST-SUFFIX,abema.tv,PROXY
+HOST-SUFFIX,abema-tv.com,PROXY
+HOST-SUFFIX,ameba.jp,PROXY
+HOST-SUFFIX,hayabusa.io,PROXY
+HOST-SUFFIX,hayabusa.media,PROXY
+HOST,api-abematv.bucketeer.jp,PROXY
+HOST-KEYWORD,abematv.akamaized.net,PROXY
+# > All 4,PROXY
+USER-AGENT,All4*,PROXY
+HOST-SUFFIX,c4assets.com,PROXY
+HOST-SUFFIX,channel4.com,PROXY
+# > Amazon Prime Video,PROXY
+USER-AGENT,InstantVideo.US*,PROXY
+USER-AGENT,Prime%20Video*,PROXY
+HOST-SUFFIX,aiv-cdn.net,PROXY
+HOST-SUFFIX,aiv-delivery.net,PROXY
+HOST-SUFFIX,amazonvideo.com,PROXY
+HOST-SUFFIX,media-amazon.com,PROXY
+HOST-SUFFIX,primevideo.com,PROXY
+HOST-SUFFIX,pv-cdn.net,PROXY
+HOST,atv-ps.amazon.com,PROXY
+HOST,fls-na.amazon.com,PROXY
+HOST,avodmp4s3ww-a.akamaihd.net,PROXY
+HOST,d25xi40x97liuc.cloudfront.net,PROXY
+HOST,dmqdd6hw24ucf.cloudfront.net,PROXY
+HOST,dmqdd6hw24ucf.cloudfront.net,PROXY
+HOST,d22qjgkvxw22r6.cloudfront.net,PROXY
+HOST,d1v5ir2lpwr8os.cloudfront.net,PROXY
+HOST,d27xxe7juh1us6.cloudfront.net,PROXY
+# HOST,www.amazon.com,PROXY
+HOST-KEYWORD,avoddashs,PROXY
+# > Apple Music TV,PROXY
+HOST,tv.applemusic.com,PROXY
+# > Apple TV,PROXY
+HOST,linear.tv.apple.com,PROXY
+HOST,play-edge.itunes.apple.com,PROXY
+HOST,uts-api.itunes.apple.com,PROXY
+# > Bahamut,PROXY
+USER-AGENT,Anime*,PROXY
+HOST-SUFFIX,bahamut.com.tw,PROXY
+HOST-SUFFIX,gamer.com.tw,PROXY
+HOST,bahamut.akamaized.net,PROXY
+HOST,gamer-cds.cdn.hinet.net,PROXY
+HOST,gamer2-cds.cdn.hinet.net,PROXY
+# > BBC iPlayer,PROXY
+USER-AGENT,BBCiPlayer*,PROXY
+HOST-SUFFIX,bbc.co.uk,PROXY
+HOST-SUFFIX,bbci.co.uk,PROXY
+HOST-KEYWORD,bbcfmt,PROXY
+HOST-KEYWORD,uk-live,PROXY
+# > bilibili Intl,PROXY
+HOST-SUFFIX,biliintl.com,PROXY
+HOST,apm-misaka.biliapi.net,PROXY
+HOST,p.bstarstatic.com,PROXY
+HOST,p-bstarstatic.akamaized.net,PROXY
+HOST,upos-bstar-mirrorakam.akamaized.net,PROXY
+HOST,upos-bstar1-mirrorakam.akamaized.net,PROXY
+# > DAZN,PROXY
+USER-AGENT,DAZN*,PROXY
+HOST-SUFFIX,dazn.com,PROXY
+HOST-SUFFIX,dazn-api.com,PROXY
+HOST-SUFFIX,dazndn.com,PROXY
+HOST-SUFFIX,indazn.com,PROXY
+HOST,d151l6v8er5bdm.cloudfront.net,PROXY
+HOST-KEYWORD,voddazn,PROXY
+# > discovery+,PROXY
+USER-AGENT,DPlus*,PROXY
+USER-AGENT,discovery+*,PROXY
+HOST-SUFFIX,disco-api.com,PROXY
+HOST-SUFFIX,discoveryplus.co.uk,PROXY
+HOST-SUFFIX,discoveryplus.com,PROXY
+HOST-SUFFIX,discoveryplus.in,PROXY
+HOST-SUFFIX,dnitv.com,PROXY
+# HOST,go-prod-vz.akamaized.net,PROXY
+HOST,x-default-stgec.uplynk.com,PROXY
+HOST-KEYWORD,discovery.uplynk.com,PROXY
+# > Disney+,PROXY
+USER-AGENT,Disney+*,PROXY
+HOST-SUFFIX,bamgrid.com,PROXY
+HOST-SUFFIX,disneyplus.com,PROXY
+HOST-SUFFIX,disney-plus.net,PROXY
+HOST-SUFFIX,disneystreaming.com,PROXY
+HOST-SUFFIX,dssott.com,PROXY
+HOST,cdn.registerdisney.go.com,PROXY
+# > DMM,PROXY
+HOST-SUFFIX,dmm.co.jp,PROXY
+HOST-SUFFIX,dmm.com,PROXY
+HOST-SUFFIX,dmm-extension.com,PROXY
+# > encoreTVB,PROXY
+USER-AGENT,encoreTVB*,PROXY
+HOST-SUFFIX,encoretvb.com,PROXY
+HOST,edge.api.brightcove.com,PROXY
+HOST,bcbolt446c5271-a.akamaihd.net,PROXY
+# > Hami Video,PROXY
+HOST-SUFFIX,ott.hinet.net,PROXY
+HOST-SUFFIX,hamivideo.hinet.net,PROXY
+HOST,hls-hichannel.cdn.hinet.net,PROXY
+HOST-KEYWORD,hamivideo.cdn.hinet.net,PROXY
+# > HBO NOW & Max,PROXY
+USER-AGENT,HBO%20NOW*,PROXY
+HOST-SUFFIX,hbo.com,PROXY
+HOST-SUFFIX,hbogo.com,PROXY
+HOST-SUFFIX,hbonow.com,PROXY
+USER-AGENT,HBOMAX*,PROXY
+HOST-SUFFIX,hbomax.com,PROXY
+HOST-SUFFIX,hbomaxcdn.com,PROXY
+# > HBO Asia,PROXY
+USER-AGENT,HBO%20GO%20PROD*,PROXY
+HOST-SUFFIX,hbogoasia.com,PROXY
+HOST-SUFFIX,hbogoasia.hk,PROXY
+HOST-KEYWORD,.hbogoasia.,PROXY
+HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,PROXY
+HOST,bcbolthboa-a.akamaihd.net,PROXY
+HOST,cf-images.ap-southeast-1.prod.boltdns.net,PROXY
+HOST,dai3fd1oh325y.cloudfront.net,PROXY
+HOST,hboasia1-i.akamaihd.net,PROXY
+HOST,hboasia2-i.akamaihd.net,PROXY
+HOST,hboasia3-i.akamaihd.net,PROXY
+HOST,hboasia4-i.akamaihd.net,PROXY
+HOST,hboasia5-i.akamaihd.net,PROXY
+HOST,hboasialive.akamaized.net,PROXY
+HOST,hbogoprod-vod.akamaized.net,PROXY
+HOST,hbolb.onwardsmg.com,PROXY
+HOST,hbounify-prod.evergent.com,PROXY
+HOST,players.brightcove.net,PROXY
+HOST,s3-ap-southeast-1.amazonaws.com,PROXY
+# > 华文电视,PROXY
+USER-AGENT,HWTVMobile*,PROXY
+HOST-SUFFIX,5itv.tv,PROXY
+HOST-SUFFIX,ocnttv.com,PROXY
+# > Hulu,PROXY
+HOST-SUFFIX,hulu.com,PROXY
+HOST-SUFFIX,huluim.com,PROXY
+HOST-SUFFIX,hulustream.com,PROXY
+# > Hulu / フールー,PROXY
+HOST-SUFFIX,happyon.jp,PROXY
+HOST-SUFFIX,hjholdings.jp,PROXY
+HOST-SUFFIX,hulu.jp,PROXY
+# > ITV,PROXY
+USER-AGENT,ITV_Player*,PROXY
+HOST-SUFFIX,itv.com,PROXY
+HOST-SUFFIX,itvstatic.com,PROXY
+HOST,itvpnpmobile-a.akamaihd.net,PROXY
+# > KKTV,PROXY
+USER-AGENT,KKTV*,PROXY
+USER-AGENT,com.kktv.ios.kktv*,PROXY
+HOST-SUFFIX,kktv.com.tw,PROXY
+HOST-SUFFIX,kktv.me,PROXY
+HOST,kktv-theater.kk.stream,PROXY
+HOST,theater-kktv.cdn.hinet.net,PROXY
+# > LINE TV,PROXY
+USER-AGENT,LINE%20TV*,PROXY
+HOST-SUFFIX,linetv.tw,PROXY
+HOST,d3c7rimkq79yfu.cloudfront.net,PROXY
+# > LiTV,PROXY
+HOST-SUFFIX,litv.tv,PROXY
+HOST,litvfreemobile-hichannel.cdn.hinet.net,PROXY
+# > My5,PROXY
+USER-AGENT,My5*,PROXY
+HOST-SUFFIX,channel5.com,PROXY
+HOST-SUFFIX,my5.tv,PROXY
+HOST,d349g9zuie06uo.cloudfront.net,PROXY
+# > myTV SUPER,PROXY
+USER-AGENT,mytv*,PROXY
+HOST-SUFFIX,mytvsuper.com,PROXY
+HOST-SUFFIX,tvb.com,PROXY
+# > Naver TV,PROXY
+USER-AGENT,Naver%20TV*,PROXY
+HOST-SUFFIX,naver.com,PROXY
+HOST-SUFFIX,smartmediarep.com,PROXY
+# > Netflix,PROXY
+USER-AGENT,Argo*,PROXY
+HOST-SUFFIX,netflix.com,PROXY
+HOST-SUFFIX,netflix.net,PROXY
+HOST-SUFFIX,nflxext.com,PROXY
+HOST-SUFFIX,nflximg.com,PROXY
+HOST-SUFFIX,nflximg.net,PROXY
+HOST-SUFFIX,nflxso.net,PROXY
+HOST-SUFFIX,nflxvideo.net,PROXY
+HOST-KEYWORD,netflixdnstest,PROXY
+HOST-KEYWORD,apiproxy-device-prod-nlb-,PROXY
+HOST-KEYWORD,dualstack.apiproxy-,PROXY
+# GEOIP,NETFLIX,no-resolve,PROXY
+# > niconico,PROXY
+USER-AGENT,Niconico*,PROXY
+HOST-SUFFIX,dmc.nico,PROXY
+HOST-SUFFIX,nicovideo.jp,PROXY
+HOST-SUFFIX,nimg.jp,PROXY
+# > Now E,PROXY
+HOST-SUFFIX,nowe.com,PROXY
+HOST-SUFFIX,nowestatic.com,PROXY
+# > Paramount+,PROXY
+USER-AGENT,PPlus*,PROXY
+HOST-SUFFIX,cbsi.com,PROXY
+HOST-SUFFIX,cbsaavideo.com,PROXY
+HOST-SUFFIX,cbsivideo.com,PROXY
+HOST-SUFFIX,paramountplus.com,PROXY
+HOST-SUFFIX,pplusstatic.com,PROXY
+HOST,cbsi.live.ott.irdeto.com,PROXY
+HOST,cbsplaylistserver.aws.syncbak.com,PROXY
+HOST,cbsservice.aws.syncbak.com,PROXY
+HOST,link.theplatform.com,PROXY
+# > PBS,PROXY
+USER-AGENT,PBS*,PROXY
+HOST-SUFFIX,pbs.org,PROXY
+# > Peacock,PROXY
+USER-AGENT,PeacockMobile*,PROXY
+HOST-SUFFIX,peacocktv.com,PROXY
+# > Pornhub,PROXY
+HOST-SUFFIX,phncdn.com,PROXY
+HOST-SUFFIX,phprcdn.com,PROXY
+HOST-SUFFIX,pornhub.com,PROXY
+HOST-SUFFIX,pornhubpremium.com,PROXY
+# > 台湾好,PROXY
+USER-AGENT,TaiwanGood*,PROXY
+HOST-SUFFIX,skyking.com.tw,PROXY
+HOST,hamifans.emome.net,PROXY
+# > TikTok,PROXY
+USER-AGENT,TikTok*,PROXY
+HOST-SUFFIX,byteoversea.com,PROXY
+HOST-SUFFIX,ibytedtos.com,PROXY
+HOST-SUFFIX,muscdn.com,PROXY
+HOST-SUFFIX,musical.ly,PROXY
+HOST-SUFFIX,tiktok.com,PROXY
+HOST-SUFFIX,tik-tokapi.com,PROXY
+HOST-SUFFIX,tiktokcdn.com,PROXY
+HOST-SUFFIX,tiktokv.com,PROXY
+HOST-KEYWORD,tiktokcdn-,PROXY
+# > TVer,PROXY
+USER-AGENT,TVer-Release*,PROXY
+HOST-SUFFIX,tver.jp,PROXY
+HOST,edge.api.brightcove.com,PROXY
+# > ViuTV,PROXY
+USER-AGENT,Viu*,PROXY
+HOST-SUFFIX,viu.com,PROXY
+HOST-SUFFIX,viu.tv,PROXY
+HOST,api.viu.now.com,PROXY
+HOST,d1k2us671qcoau.cloudfront.net,PROXY
+HOST,d2anahhhmp1ffz.cloudfront.net,PROXY
+HOST,dfp6rglgjqszk.cloudfront.net,PROXY
+# > WeTV,PROXY
+USER-AGENT,WeTV*,PROXY
+HOST-SUFFIX,wetv.vip,PROXY
+HOST-SUFFIX,wetvinfo.com,PROXY
+IP-CIDR,150.109.28.51/32,no-resolve,PROXY
+# > YouTube,PROXY
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+HOST-SUFFIX,googlevideo.com,PROXY
+HOST-SUFFIX,withyoutube.com,PROXY
+HOST-SUFFIX,youtu.be,PROXY
+HOST-SUFFIX,youtube.com,PROXY
+HOST-SUFFIX,youtubeeducation.com,PROXY
+HOST-SUFFIX,youtubegaming.com,PROXY
+HOST-SUFFIX,youtubekids.com,PROXY
+HOST-SUFFIX,youtube-nocookie.com,PROXY
+HOST-SUFFIX,yt.be,PROXY
+HOST-SUFFIX,ytimg.com,PROXY
+HOST,youtubei.googleapis.com,PROXY
+HOST,yt3.ggpht.com,PROXY
+,PROXY
+# Google,PROXY
+HOST-SUFFIX,blogger.com,PROXY
+HOST-KEYWORD,google,PROXY
+HOST-KEYWORD,blogspot,PROXY
+IP-CIDR,35.190.247.0/24,PROXY
+IP-CIDR,64.233.160.0/19,PROXY
+IP-CIDR,66.102.0.0/20,PROXY
+IP-CIDR,66.249.80.0/20,PROXY
+IP-CIDR,72.14.192.0/18,PROXY
+IP-CIDR,74.125.0.0/16,PROXY
+IP-CIDR,108.177.8.0/21,PROXY
+IP-CIDR,172.217.0.0/16,PROXY
+IP-CIDR,173.194.0.0/16,PROXY
+IP-CIDR,209.85.128.0/17,PROXY
+IP-CIDR,216.58.192.0/19,PROXY
+IP-CIDR,216.239.32.0/19,PROXY
+,PROXY
