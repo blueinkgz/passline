@@ -1,17 +1,17 @@
 # Streaming Media,PROXY
-,PROXY
+
 # (Live),PROXY
 # > Twitch,PROXY
 HOST-SUFFIX,jtvnw.net,PROXY
 HOST-SUFFIX,ttvnw.net,PROXY
 HOST-SUFFIX,twitch.tv,PROXY
 HOST-SUFFIX,twitchcdn.net,PROXY
-,PROXY
+
 # Community,PROXY
 # > Redit,PROXY
 HOST-SUFFIX,reddit.com,PROXY
 HOST-SUFFIX,imgur.io,PROXY
-,PROXY
+
 # > Mastodon,PROXY
 HOST-SUFFIX,m.cmx.im,PROXY
 HOST-SUFFIX,media.cmx.edu.kg,PROXY
@@ -142,7 +142,7 @@ HOST-SUFFIX,vocalodon.net,PROXY
 HOST-SUFFIX,cupoftea.social,PROXY
 HOST-SUFFIX,9kb.me,PROXY
 HOST-SUFFIX,social.anoxinon.de,PROXY
-,PROXY
+
 # > Telegram,PROXY
 HOST-SUFFIX,telegram.com,PROXY
 HOST-SUFFIX,telegram.me,PROXY
@@ -152,13 +152,13 @@ IP-CIDR,91.108.8.0/22,PROXY
 IP-CIDR,91.108.56.0/22,PROXY
 IP-CIDR,109.239.140.0/24,PROXY
 IP-CIDR,149.154.160.0/20,PROXY
-,PROXY
+
 # Code,PROXY
 # > GitHub,PROXY
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 HOST-SUFFIX,githubassets.com,PROXY
-,PROXY
+
 # Twitter,PROXY
 HOST-SUFFIX,pscp.tv,PROXY
 HOST-SUFFIX,t.co,PROXY
@@ -168,7 +168,7 @@ HOST-SUFFIX,twitpic.com,PROXY
 HOST-SUFFIX,vine.co,PROXY
 HOST-SUFFIX,x.com,PROXY
 HOST-KEYWORD,twitter,PROXY
-,PROXY
+
 # Line,PROXY
 HOST-SUFFIX,line-apps.com,PROXY
 HOST-SUFFIX,line-cdn.net,PROXY
@@ -176,7 +176,7 @@ HOST-SUFFIX,line-scdn.net,PROXY
 HOST-SUFFIX,line.me,PROXY
 HOST-SUFFIX,line.naver.jp,PROXY
 HOST-SUFFIX,naver.jp,PROXY
-,PROXY
+
 # (Music),PROXY
 # > Deezer,PROXY
 USER-AGENT,Deezer*,PROXY
@@ -213,7 +213,7 @@ HOST-SUFFIX,tidal.com,PROXY
 # > YouTubeMusic,PROXY
 USER-AGENT,com.google.ios.youtubemusic*,PROXY
 USER-AGENT,YouTubeMusic*,PROXY
-,PROXY
+
 # (Podcast),PROXY
 # > Himalaya,PROXY
 USER-AGENT,Himalaya*,PROXY
@@ -221,7 +221,7 @@ HOST-SUFFIX,himalaya.com,PROXY
 # > Overcast,PROXY
 USER-AGENT,Overcast*,PROXY
 HOST-SUFFIX,overcast.fm,PROXY
-,PROXY
+
 # (Video),PROXY
 # > AbemaTV,PROXY
 USER-AGENT,AbemaTV*,PROXY
@@ -486,7 +486,7 @@ HOST-SUFFIX,yt.be,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST,youtubei.googleapis.com,PROXY
 HOST,yt3.ggpht.com,PROXY
-,PROXY
+
 # Google,PROXY
 HOST-SUFFIX,blogger.com,PROXY
 HOST-KEYWORD,google,PROXY
@@ -503,4 +503,3 @@ IP-CIDR,173.194.0.0/16,PROXY
 IP-CIDR,209.85.128.0/17,PROXY
 IP-CIDR,216.58.192.0/19,PROXY
 IP-CIDR,216.239.32.0/19,PROXY
-,PROXY
