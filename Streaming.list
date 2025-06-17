@@ -469,7 +469,7 @@ HOST,dfp6rglgjqszk.cloudfront.net,PROXY
 USER-AGENT,WeTV*,PROXY
 HOST-SUFFIX,wetv.vip,PROXY
 HOST-SUFFIX,wetvinfo.com,PROXY
-IP-CIDR,150.109.28.51/32,no-resolve,PROXY
+IP-CIDR,150.109.28.51/32,PROXY
 # > YouTube,PROXY
 USER-AGENT,com.google.ios.youtube*,PROXY
 USER-AGENT,YouTube*,PROXY
