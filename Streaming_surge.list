@@ -1,0 +1,504 @@
+# Streaming Media
+
+# (Live)
+# > Twitch
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+
+# Community
+# > Redit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,imgur.io
+
+# > Mastodon
+DOMAIN-SUFFIX,m.cmx.im
+DOMAIN-SUFFIX,media.cmx.edu.kg
+DOMAIN-SUFFIX,go5.dev
+DOMAIN-SUFFIX,geeknews.chat
+DOMAIN-SUFFIX,botsin.space
+DOMAIN-SUFFIX,moresci.sale
+DOMAIN-SUFFIX,alive.bar
+DOMAIN-SUFFIX,mastodon.hongkongers.net
+DOMAIN-SUFFIX,bird.makeup
+DOMAIN-SUFFIX,wxw.moe
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,schleuss.online
+DOMAIN-SUFFIX,nofan.xyz
+DOMAIN-SUFFIX,mog.blue
+DOMAIN-SUFFIX,piaille.fr
+DOMAIN-SUFFIX,douchi.space
+DOMAIN-SUFFIX,c7.io
+DOMAIN-SUFFIX,allships.run
+DOMAIN-SUFFIX,bgme.me
+DOMAIN-SUFFIX,stolen.day
+DOMAIN-SUFFIX,mastodon.li
+DOMAIN-SUFFIX,o3o.ca
+DOMAIN-SUFFIX,eihei.net
+DOMAIN-SUFFIX,donotban.com
+DOMAIN-SUFFIX,hello.2heng.xin
+DOMAIN-SUFFIX,mastodon.online
+DOMAIN-SUFFIX,liker.social
+DOMAIN-SUFFIX,floss.social
+DOMAIN-SUFFIX,infosec.exchange
+DOMAIN-SUFFIX,mstdn.social
+DOMAIN-SUFFIX,me.ns.ci
+DOMAIN-SUFFIX,fivest.one
+DOMAIN-SUFFIX,amst.io
+DOMAIN-SUFFIX,kongwoo.icu
+DOMAIN-SUFFIX,mas.to
+DOMAIN-SUFFIX,digforfire.org
+DOMAIN-SUFFIX,qoto.org
+DOMAIN-SUFFIX,fanfou.social
+DOMAIN-SUFFIX,mastodon.world
+DOMAIN-SUFFIX,ovo.st
+DOMAIN-SUFFIX,retirenow.tokap
+DOMAIN-SUFFIX,acg.mn
+DOMAIN-SUFFIX,pullopen.xyz
+DOMAIN-SUFFIX,dvd.chat
+DOMAIN-SUFFIX,swiss-chaos.social
+DOMAIN-SUFFIX,eldritch.cafe
+DOMAIN-SUFFIX,dabr.ca
+DOMAIN-SUFFIX,indieweb.social
+DOMAIN-SUFFIX,troet.cafe
+DOMAIN-SUFFIX,sinophone.world
+DOMAIN-SUFFIX,retirenow.top
+DOMAIN-SUFFIX,kolektiva.social
+DOMAIN-SUFFIX,nya.one
+DOMAIN-SUFFIX,mas.to
+DOMAIN-SUFFIX,universeodon.com
+DOMAIN-SUFFIX,seaofog.com
+DOMAIN-SUFFIX,toot.io
+DOMAIN-SUFFIX,ieji.de
+DOMAIN-SUFFIX,mstdn.jp
+DOMAIN-SUFFIX,g0v.social
+DOMAIN-SUFFIX,nrw.social
+DOMAIN-SUFFIX,bahn.social
+DOMAIN-SUFFIX,c.im
+DOMAIN-SUFFIX,climatejustice.rocks
+DOMAIN-SUFFIX,m.otter.homes
+DOMAIN-SUFFIX,androiddev.social
+DOMAIN-SUFFIX,dragon-fly.club
+DOMAIN-SUFFIX,aus.social
+DOMAIN-SUFFIX,ravenation.club
+DOMAIN-SUFFIX,hyan.ink
+DOMAIN-SUFFIX,fosstodon.org
+DOMAIN-SUFFIX,meow.day
+DOMAIN-SUFFIX,8w.ee
+DOMAIN-SUFFIX,1234.as
+DOMAIN-SUFFIX,go5.dev
+DOMAIN-SUFFIX,techeasy.org
+DOMAIN-SUFFIX,mastodon.top
+DOMAIN-SUFFIX,mastodon.nl
+DOMAIN-SUFFIX,convo.casa
+DOMAIN-SUFFIX,social.datalabour.com
+DOMAIN-SUFFIX,techhub.social
+DOMAIN-SUFFIX,fairy.id
+DOMAIN-SUFFIX,utopia.cool
+DOMAIN-SUFFIX,vivaldi.net
+DOMAIN-SUFFIX,social.bbdao.dev
+DOMAIN-SUFFIX,toot.community
+DOMAIN-SUFFIX,mastodon.bida.im
+DOMAIN-SUFFIX,pokemon.mastportal.info
+DOMAIN-SUFFIX,fed.sakuyo.net
+DOMAIN-SUFFIX,graphics.social
+DOMAIN-SUFFIX,defcon.social
+DOMAIN-SUFFIX,sfba.social
+DOMAIN-SUFFIX,tea.codes
+DOMAIN-SUFFIX,unstable.icu
+DOMAIN-SUFFIX,kaleido.moe
+DOMAIN-SUFFIX,together.chaoyu.us
+DOMAIN-SUFFIX,m.jinwei.me
+DOMAIN-SUFFIX,social.butnot.today
+DOMAIN-SUFFIX,nacchan.ca
+DOMAIN-SUFFIX,mastodon.sdf.org
+DOMAIN-SUFFIX,bitsandpixels.dev
+DOMAIN-SUFFIX,forum-lucifer.com
+DOMAIN-SUFFIX,fedibird.com
+DOMAIN-SUFFIX,nemushee.net
+DOMAIN-SUFFIX,mstnf.com
+DOMAIN-SUFFIX,discuss.systems
+DOMAIN-SUFFIX,sakuyo.net
+DOMAIN-SUFFIX,beekeeping.ninja
+DOMAIN-SUFFIX,hachyderm.io
+DOMAIN-SUFFIX,expressional.social
+DOMAIN-SUFFIX,sself.co
+DOMAIN-SUFFIX,elizur.me
+DOMAIN-SUFFIX,m.wulingate.com
+DOMAIN-SUFFIX,mastodonapp.uk
+DOMAIN-SUFFIX,sddn.space
+DOMAIN-SUFFIX,malu.today
+DOMAIN-SUFFIX,blooming-land.icu
+DOMAIN-SUFFIX,masto.nu
+DOMAIN-SUFFIX,stoners.social
+DOMAIN-SUFFIX,masto.yttrx.com
+DOMAIN-SUFFIX,darkwitch.net
+DOMAIN-SUFFIX,slashine.onl
+DOMAIN-SUFFIX,ramen-fsm.eu.org
+DOMAIN-SUFFIX,tooting.ch
+DOMAIN-SUFFIX,vocalodon.net
+DOMAIN-SUFFIX,cupoftea.social
+DOMAIN-SUFFIX,9kb.me
+DOMAIN-SUFFIX,social.anoxinon.de
+
+# > Telegram
+DOMAIN-SUFFIX,telegram.com
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+IP-CIDR,91.108.4.0/22
+IP-CIDR,91.108.8.0/22
+IP-CIDR,91.108.56.0/22
+IP-CIDR,109.239.140.0/24
+IP-CIDR,149.154.160.0/20
+
+# Code
+# > GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+
+# Twitter
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
+
+# Line
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,naver.jp
+
+# (Music)
+# > Deezer
+USER-AGENT,Deezer*
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net
+# > JOOX
+USER-AGENT,JOOX*
+USER-AGENT,WeMusic*
+DOMAIN-SUFFIX,joox.com
+DOMAIN-KEYWORD,jooxweb-api
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kfs.io
+# > Pandora
+USER-AGENT,Pandora*
+DOMAIN-SUFFIX,pandora.com
+# > SoundCloud
+USER-AGENT,SoundCloud*
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+# > Spotify
+USER-AGENT,Spotify*
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
+# > TIDAL
+USER-AGENT,TIDAL*
+DOMAIN-SUFFIX,tidal.com
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+
+# (Podcast)
+# > Himalaya
+USER-AGENT,Himalaya*
+DOMAIN-SUFFIX,himalaya.com
+# > Overcast
+USER-AGENT,Overcast*
+DOMAIN-SUFFIX,overcast.fm
+
+# (Video)
+# > AbemaTV
+USER-AGENT,AbemaTV*
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN,api-abematv.bucketeer.jp
+DOMAIN-KEYWORD,abematv.akamaized.net
+# > All 4
+USER-AGENT,All4*
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,channel4.com
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,pv-cdn.net
+DOMAIN,atv-ps.amazon.com
+DOMAIN,fls-na.amazon.com
+DOMAIN,avodmp4s3ww-a.akamaihd.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+# DOMAIN,www.amazon.com
+DOMAIN-KEYWORD,avoddashs
+# > Apple Music TV
+DOMAIN,tv.applemusic.com
+# > Apple TV
+DOMAIN,linear.tv.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,uts-api.itunes.apple.com
+# > Bahamut
+USER-AGENT,Anime*
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,bahamut.akamaized.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+# > bilibili Intl
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+# > DAZN
+USER-AGENT,DAZN*
+DOMAIN-SUFFIX,dazn.com
+DOMAIN-SUFFIX,dazn-api.com
+DOMAIN-SUFFIX,dazndn.com
+DOMAIN-SUFFIX,indazn.com
+DOMAIN,d151l6v8er5bdm.cloudfront.net
+DOMAIN-KEYWORD,voddazn
+# > discovery+
+USER-AGENT,DPlus*
+USER-AGENT,discovery+*
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,dnitv.com
+# DOMAIN,go-prod-vz.akamaized.net
+DOMAIN,x-default-stgec.uplynk.com
+DOMAIN-KEYWORD,discovery.uplynk.com
+# > Disney+
+USER-AGENT,Disney+*
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,disneystreaming.com
+DOMAIN-SUFFIX,dssott.com
+DOMAIN,cdn.registerdisney.go.com
+# > DMM
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm-extension.com
+# > encoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+# > Hami Video
+DOMAIN-SUFFIX,ott.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN,hls-hichannel.cdn.hinet.net
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+# > HBO NOW & Max
+USER-AGENT,HBO%20NOW*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+# > HBO Asia
+USER-AGENT,HBO%20GO%20PROD*
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-KEYWORD,.hbogoasia.
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,hboasialive.akamaized.net
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,players.brightcove.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+# > 华文电视
+USER-AGENT,HWTVMobile*
+DOMAIN-SUFFIX,5itv.tv
+DOMAIN-SUFFIX,ocnttv.com
+# > Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+# > Hulu / フールー
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hulu.jp
+# > ITV
+USER-AGENT,ITV_Player*
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+DOMAIN,itvpnpmobile-a.akamaihd.net
+# > KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN,kktv-theater.kk.stream
+DOMAIN,theater-kktv.cdn.hinet.net
+# > LINE TV
+USER-AGENT,LINE%20TV*
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+# > LiTV
+DOMAIN-SUFFIX,litv.tv
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+# > My5
+USER-AGENT,My5*
+DOMAIN-SUFFIX,channel5.com
+DOMAIN-SUFFIX,my5.tv
+DOMAIN,d349g9zuie06uo.cloudfront.net
+# > myTV SUPER
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+# > Naver TV
+USER-AGENT,Naver%20TV*
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,smartmediarep.com
+# > Netflix
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.apiproxy-
+# GEOIP,NETFLIX,no-resolve
+# > niconico
+USER-AGENT,Niconico*
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+# > Now E
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowestatic.com
+# > Paramount+
+USER-AGENT,PPlus*
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com
+# > PBS
+USER-AGENT,PBS*
+DOMAIN-SUFFIX,pbs.org
+# > Peacock
+USER-AGENT,PeacockMobile*
+DOMAIN-SUFFIX,peacocktv.com
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+# > 台湾好
+USER-AGENT,TaiwanGood*
+DOMAIN-SUFFIX,skyking.com.tw
+DOMAIN,hamifans.emome.net
+# > TikTok
+USER-AGENT,TikTok*
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,tiktokcdn-
+# > TVer
+USER-AGENT,TVer-Release*
+DOMAIN-SUFFIX,tver.jp
+DOMAIN,edge.api.brightcove.com
+# > ViuTV
+USER-AGENT,Viu*
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+# > WeTV
+USER-AGENT,WeTV*
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+IP-CIDR,150.109.28.51/32
+# > YouTube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+
+# Google
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,blogspot
+IP-CIDR,35.190.247.0/24
+IP-CIDR,64.233.160.0/19
+IP-CIDR,66.102.0.0/20
+IP-CIDR,66.249.80.0/20
+IP-CIDR,72.14.192.0/18
+IP-CIDR,74.125.0.0/16
+IP-CIDR,108.177.8.0/21
+IP-CIDR,172.217.0.0/16
+IP-CIDR,173.194.0.0/16
+IP-CIDR,209.85.128.0/17
+IP-CIDR,216.58.192.0/19
+IP-CIDR,216.239.32.0/19
