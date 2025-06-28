@@ -162,6 +162,10 @@ HOST-SUFFIX,githubassets.com,PROXY
 HOST-SUFFIX,huggingface.co,PROXY
 HOST-SUFFIX,hf.co,PROXY
 
+# Docker
+HOST-SUFFIX,docker.com,PROXY
+HOST-SUFFIX,docker.io,PROXY
+
 # Twitter,PROXY
 HOST-SUFFIX,pscp.tv,PROXY
 HOST-SUFFIX,t.co,PROXY
