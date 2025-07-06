@@ -498,7 +498,8 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 # > Other
 DOMAIN-SUFFIX,sekai.icu
-
+# pincong
+DOMAIN,pincong.rocks
 # Google
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-KEYWORD,google
