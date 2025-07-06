@@ -155,6 +155,7 @@ IP-CIDR,149.154.160.0/20
 # Code
 # > GitHub
 DOMAIN,avatars.githubusercontent.com
+DOMAIN,raw.githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
