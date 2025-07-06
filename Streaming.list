@@ -154,6 +154,7 @@ IP-CIDR,149.154.160.0/20,PROXY
 
 # Code,PROXY
 # > GitHub,PROXY
+HOST,raw.githubusercontent.com,PROXY
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,githubusercontent.com,PROXY
 HOST-SUFFIX,githubassets.com,PROXY
