@@ -164,6 +164,7 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,ghcr.io
 
 # Docker
 DOMAIN-SUFFIX,docker.com
