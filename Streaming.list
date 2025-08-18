@@ -479,6 +479,14 @@ USER-AGENT,WeTV*,PROXY
 HOST-SUFFIX,wetv.vip,PROXY
 HOST-SUFFIX,wetvinfo.com,PROXY
 IP-CIDR,150.109.28.51/32,PROXY
+# > Facebook, PROXY
+HOST-SUFFIX,facebook.com,PROXY
+HOST-SUFFIX,instagram.com,PROXY
+HOST-SUFFIX,cdninstagram.com,PROXY
+HOST-SUFFIX,fb.com,PROXY
+HOST-SUFFIX,fbcdn.com,PROXY
+HOST-SUFFIX,whatsapp.com,PROXY
+HOST-SUFFIX,whatsapp.net,PROXY
 # > YouTube,PROXY
 USER-AGENT,com.google.ios.youtube*,PROXY
 USER-AGENT,YouTube*,PROXY
