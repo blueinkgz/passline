@@ -484,7 +484,7 @@ HOST-SUFFIX,facebook.com,PROXY
 HOST-SUFFIX,instagram.com,PROXY
 HOST-SUFFIX,cdninstagram.com,PROXY
 HOST-SUFFIX,fb.com,PROXY
-HOST-SUFFIX,fbcdn.com,PROXY
+HOST-SUFFIX,fbcdn.net,PROXY
 HOST-SUFFIX,whatsapp.com,PROXY
 HOST-SUFFIX,whatsapp.net,PROXY
 # > YouTube,PROXY
