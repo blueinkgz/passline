@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 
+# wiki
+DOMAIN-SUFFIX,wikipedia.org
+
 # brew
 DOMAIN,formulae.brew.sh
 DOMAIN-SUFFIX,brew.sh
