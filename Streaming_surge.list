@@ -196,6 +196,9 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,naver.jp
 
+# International Media
+DOMAIN-SUFFIX,rfi.fr
+
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
