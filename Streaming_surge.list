@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,twitchcdn.net
 
 # wiki
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
 
 # brew
 DOMAIN,formulae.brew.sh
