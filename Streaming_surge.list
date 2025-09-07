@@ -199,6 +199,9 @@ DOMAIN-SUFFIX,naver.jp
 # International Media
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bloomberg.com
 
 # (Music)
 # > Deezer
